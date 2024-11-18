@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alumnos/Alumnos.iml" filepath="$PROJECT_DIR$/Alumnos/Alumnos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Con-Relaciones.iml" filepath="$PROJECT_DIR$/Ejercicios-Con-Relaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factura/Factura.iml" filepath="$PROJECT_DIR$/Factura/Factura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurante/Restaurante.iml" filepath="$PROJECT_DIR$/Restaurante/Restaurante.iml" />
+    </modules>
+  </component>
+</project>
